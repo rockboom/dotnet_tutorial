@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{51205259-2D88-460E-B3FD-1FC71C13E429}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Config_tutorial/FxConfigExtensions.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Config_tutorial/Program.cs">
     <Files>
-      <File FileName="Config_tutorial/Program.cs" Line="39" Column="35" />
+      <File FileName="Config_tutorial/Program.cs" Line="6" Column="2" />
       <File FileName="Config_tutorial/config.json" />
       <File FileName="Config_tutorial/TestController.cs" Line="26" Column="1" />
       <File FileName="Config_tutorial/Test2.cs" />
@@ -10,16 +10,12 @@
       <File FileName="Config_tutorial/FxConfigSource.cs" Line="15" Column="36" />
       <File FileName="Config_tutorial/WebConfig.cs" Line="8" Column="43" />
       <File FileName="Config_tutorial/TestWebConfig.cs" Line="15" Column="34" />
-      <File FileName="Config_tutorial/FxConfigExtensions.cs" Line="1" Column="1" />
+      <File FileName="Config_tutorial/FxConfigExtensions.cs" Line="4" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Config_tutorial" expanded="True">
-            <Node name="Config_tutorial" expanded="True">
-              <Node name="FxConfigExtensions.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Config_tutorial" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
