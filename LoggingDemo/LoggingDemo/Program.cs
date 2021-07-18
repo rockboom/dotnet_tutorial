@@ -13,7 +13,7 @@ namespace LoggingDemo
             ServiceCollection services = new ServiceCollection();
             services.AddLogging(logBuilder=>
             {
-                logBuilder.AddConsole();
+                //logBuilder.AddConsole();
                 //logBuilder.AddEventLog();
                 logBuilder.AddNLog();
                 logBuilder.SetMinimumLevel(LogLevel.Trace);
@@ -23,10 +23,14 @@ namespace LoggingDemo
             using (var sp = services.BuildServiceProvider())
             {
                 Test1 test = sp.GetService<Test1>();
-                test.Test();
-
                 Test2 test2 = sp.GetService<Test2>();
-                test2.Test();
+
+                for (int i = 0;i < 10000; i++)
+                {
+                    test.Test();
+                    test2.Test();
+                }
+                
             }
         }
     }
