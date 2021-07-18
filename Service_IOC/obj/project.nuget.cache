@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRJyqWGLusOSVvFUwr4axL5yNA8rE5uBOqyXaLbUh3qXyBkXG6rgCnAPydApLnrt9dy867DdbbKkbSyVv7j+dw==",
+  "success": true,
+  "projectFilePath": "/Users/johnson/dotnet-tutorial/Service_IOC/Service_IOC.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnson/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/johnson/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
