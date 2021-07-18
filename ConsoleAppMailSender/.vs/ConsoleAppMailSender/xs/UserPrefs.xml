@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{CBD23869-3567-40C7-8386-A6CD98B47A78}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppMailSender PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppMailSender/Program.cs">
+    <Files>
+      <File FileName="ConsoleAppMailSender/Program.cs" Line="12" Column="34" />
+      <File FileName="LogServices/Class1.cs" Line="1" Column="1" />
+      <File FileName="LogServices/ILogProvider.cs" Line="4" Column="23" />
+      <File FileName="LogServices/ConsoleLogProvider.cs" Line="4" Column="12" />
+      <File FileName="MailServices/Class1.cs" Line="1" Column="1" />
+      <File FileName="MailServices/IMailService.cs" Line="6" Column="57" />
+      <File FileName="MailServices/MailService.cs" Line="14" Column="65" />
+      <File FileName="ConfigServices/Class1.cs" Line="1" Column="1" />
+      <File FileName="ConfigServices/EmptyInterface.cs" Line="8" Column="23" />
+      <File FileName="ConfigServices/EnvVarConfigService.cs" Line="4" Column="37" />
+      <File FileName="ConfigServices/IniFileConfigService.cs" Line="17" Column="1" />
+      <File FileName="ConsoleAppMailSender/mail.ini" Line="3" Column="16" />
+      <File FileName="LogServices/ConsoleLogExtensions.cs" Line="4" Column="51" />
+      <File FileName="ConfigServices/IniFileConfigServiceExtensions.cs" Line="4" Column="51" />
+      <File FileName="ConfigServices/EmptyInterface.cs" Line="6" Column="38" />
+      <File FileName="ConfigServices/ConfigReader.cs" Line="9" Column="9" />
+      <File FileName="ConfigServices/ConfigReaderExtensions.cs" Line="9" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleAppMailSender" expanded="True">
+            <Node name="ConfigServices" expanded="True" />
+            <Node name="ConsoleAppMailSender" expanded="True" selected="True" />
+            <Node name="LogServices" expanded="True" />
+            <Node name="MailServices" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

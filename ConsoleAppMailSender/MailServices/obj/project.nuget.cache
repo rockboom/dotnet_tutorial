@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KUSLqxDNM6X2GYaKgdof/UyfRqBQmNfOQ4CxgDQoDNCRUZNPvpROwH28bcvuTDIWn6Gwz2aOOSFpuABLwazeA==",
+  "success": true,
+  "projectFilePath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/MailServices.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnson/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/johnson/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

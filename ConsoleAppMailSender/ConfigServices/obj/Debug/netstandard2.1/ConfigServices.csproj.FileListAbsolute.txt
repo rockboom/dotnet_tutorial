@@ -1,0 +1,9 @@
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/bin/Debug/netstandard2.1/ConfigServices.deps.json
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/bin/Debug/netstandard2.1/ConfigServices.dll
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/bin/Debug/netstandard2.1/ConfigServices.pdb
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/obj/Debug/netstandard2.1/ConfigServices.csproj.AssemblyReference.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/obj/Debug/netstandard2.1/ConfigServices.AssemblyInfoInputs.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/obj/Debug/netstandard2.1/ConfigServices.AssemblyInfo.cs
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/obj/Debug/netstandard2.1/ConfigServices.csproj.CoreCompileInputs.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/obj/Debug/netstandard2.1/ConfigServices.dll
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/obj/Debug/netstandard2.1/ConfigServices.pdb

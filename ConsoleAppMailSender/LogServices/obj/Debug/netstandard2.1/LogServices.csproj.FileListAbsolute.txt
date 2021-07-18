@@ -1,0 +1,9 @@
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/bin/Debug/netstandard2.1/LogServices.deps.json
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/bin/Debug/netstandard2.1/LogServices.dll
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/bin/Debug/netstandard2.1/LogServices.pdb
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/obj/Debug/netstandard2.1/LogServices.csproj.AssemblyReference.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/obj/Debug/netstandard2.1/LogServices.AssemblyInfoInputs.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/obj/Debug/netstandard2.1/LogServices.AssemblyInfo.cs
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/obj/Debug/netstandard2.1/LogServices.csproj.CoreCompileInputs.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/obj/Debug/netstandard2.1/LogServices.dll
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/obj/Debug/netstandard2.1/LogServices.pdb

@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConsoleAppMailSender/ConsoleAppMailSender.csproj": {}
+  },
+  "projects": {
+    "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/ConfigServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/ConfigServices.csproj",
+        "projectName": "ConfigServices",
+        "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/ConfigServices.csproj",
+        "packagesPath": "/Users/johnson/.nuget/packages/",
+        "outputPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/johnson/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConsoleAppMailSender/ConsoleAppMailSender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConsoleAppMailSender/ConsoleAppMailSender.csproj",
+        "projectName": "ConsoleAppMailSender",
+        "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConsoleAppMailSender/ConsoleAppMailSender.csproj",
+        "packagesPath": "/Users/johnson/.nuget/packages/",
+        "outputPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConsoleAppMailSender/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/johnson/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/ConfigServices.csproj": {
+                "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/ConfigServices.csproj"
+              },
+              "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/LogServices.csproj": {
+                "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/LogServices.csproj"
+              },
+              "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/MailServices.csproj": {
+                "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/MailServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/LogServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/LogServices.csproj",
+        "projectName": "LogServices",
+        "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/LogServices.csproj",
+        "packagesPath": "/Users/johnson/.nuget/packages/",
+        "outputPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/johnson/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/MailServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/MailServices.csproj",
+        "projectName": "MailServices",
+        "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/MailServices.csproj",
+        "packagesPath": "/Users/johnson/.nuget/packages/",
+        "outputPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/johnson/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/ConfigServices.csproj": {
+                "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/ConfigServices/ConfigServices.csproj"
+              },
+              "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/LogServices.csproj": {
+                "projectPath": "/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/LogServices/LogServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

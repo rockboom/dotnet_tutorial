@@ -1,0 +1,14 @@
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/obj/Debug/netstandard2.1/MailServices.csproj.AssemblyReference.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/obj/Debug/netstandard2.1/MailServices.AssemblyInfoInputs.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/obj/Debug/netstandard2.1/MailServices.AssemblyInfo.cs
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/obj/Debug/netstandard2.1/MailServices.csproj.CoreCompileInputs.cache
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/bin/Debug/netstandard2.1/MailServices.deps.json
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/bin/Debug/netstandard2.1/MailServices.dll
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/bin/Debug/netstandard2.1/MailServices.pdb
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/bin/Debug/netstandard2.1/ConfigServices.dll
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/bin/Debug/netstandard2.1/LogServices.dll
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/bin/Debug/netstandard2.1/LogServices.pdb
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/bin/Debug/netstandard2.1/ConfigServices.pdb
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/obj/Debug/netstandard2.1/MailServices.csproj.CopyComplete
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/obj/Debug/netstandard2.1/MailServices.dll
+/Users/johnson/dotnet-tutorial/ConsoleAppMailSender/MailServices/obj/Debug/netstandard2.1/MailServices.pdb
