@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6AxpUbMh6QcXx/PjNpQ2/TNWGOpGQdIMBLjYTtX7Bs8xxMBh7Z+23SA5lt6L8fIAozn+4EdreM2hs2KkqH/fA==",
+  "success": true,
+  "projectFilePath": "/Users/johnson/dotnet-tutorial/LINQ/LINQ/LINQ.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnson/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/johnson/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

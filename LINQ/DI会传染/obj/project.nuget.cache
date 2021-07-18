@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdlmyjIVFmi+QjE8zro4+4CKeWwskuOe0/ScUSXIM8uW5k2fUu7065Apw7jvVNDdP/mXKaSwDS5P5LC9IHRi1Q==",
+  "success": true,
+  "projectFilePath": "/Users/johnson/dotnet-tutorial/LINQ/DI会传染/DI_Basic_usage.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnson/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/johnson/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
