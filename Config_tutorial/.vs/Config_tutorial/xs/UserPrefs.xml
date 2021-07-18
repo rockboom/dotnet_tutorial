@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{51205259-2D88-460E-B3FD-1FC71C13E429}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Config_tutorial/Program.cs">
+    <Files>
+      <File FileName="Config_tutorial/Program.cs" Line="33" Column="44" />
+      <File FileName="Config_tutorial/config.json" />
+      <File FileName="Config_tutorial/TestController.cs" />
+      <File FileName="Config_tutorial/Test2.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Config_tutorial" expanded="True">
+            <Node name="Config_tutorial" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Config__tutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
