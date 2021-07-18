@@ -28,3 +28,5 @@
 /Users/johnson/dotnet-tutorial/Config_tutorial/Config_tutorial/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/johnson/dotnet-tutorial/Config_tutorial/Config_tutorial/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
 /Users/johnson/dotnet-tutorial/Config_tutorial/Config_tutorial/bin/Debug/net5.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/johnson/dotnet-tutorial/Config_tutorial/Config_tutorial/bin/Debug/net5.0/web.config
+/Users/johnson/dotnet-tutorial/Config_tutorial/Config_tutorial/bin/Debug/net5.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll

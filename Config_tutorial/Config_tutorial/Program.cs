@@ -12,20 +12,35 @@ namespace Config_tutorial
             
             ConfigurationBuilder configBuilder = new ConfigurationBuilder();
             //configBuilder.AddJsonFile("config.json",optional:true,reloadOnChange: true);
-            configBuilder.AddCommandLine(args);
+            //configBuilder.AddCommandLine(args);
             IConfigurationRoot configRoot = configBuilder.Build();
-            services.AddOptions().Configure<Config>(e=>configRoot.Bind(e))
-                                 .Configure<Proxy>(e=>configRoot.GetSection("proxy").Bind(e));
+
+            //services.AddOptions().Configure<Config>(e=>configRoot.Bind(e))
+            //                     .Configure<Proxy>(e=>configRoot.GetSection("proxy").Bind(e));
+
+            services.AddFxConfig("web.config");
+            //services.AddOptions().Configure<WebConfig>(e => configRoot.Bind(e));
+
+
+
             services.AddScoped<TestController>();
             services.AddScoped<Test2>();
+            services.AddScoped<TestWebConfig>();
+
+
+
 
             ConfigurationBuilder configurationBuilder = new ConfigurationBuilder();
             configurationBuilder.AddEnvironmentVariables();
+            configBuilder.Add(new FxConfigSource() { Path="web.config" });
 
             using (ServiceProvider sp = services.BuildServiceProvider())
             {
-                var controller = sp.GetService<TestController>();
+                var controller = sp.GetService<TestWebConfig>();
                 controller.Test();
+
+                //var controller = sp.GetService<TestController>();
+                //controller.Test();
 
                 //while (true)
                 //{
